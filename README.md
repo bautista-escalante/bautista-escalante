@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Bautista Escalante
 
-<!--
-**bautista-escalante/bautista-escalante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Soy un desarrollador con experiencia en:
+- PHP (Slim Framework, laravel)
+- C# (.NET Windows Forms)
+- MySQL, SQLite y Supabase
+- Angular + Ionic para apps móviles
 
-Here are some ideas to get you started:
+🔧 También me apasiona:
+- La impresión 3D 🖨️
+- Proyectos de electrónica con Arduino ⚡
+- Energía solar y reciclaje de hardware ♻️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Actualmente estoy desarrollando un proyecto llamado **fitfat** una app movil para interactuar y subir recetas
+
+📫 Me puedes contactar en: [bauti.escalante@gmail.com]<br>
+⚡ mi portfolio:  https://bautistaescalante.vercel.app/VisualPort
+---
