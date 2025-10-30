@@ -13,6 +13,5 @@
 
 🚀 Actualmente estoy desarrollando un proyecto llamado **fitfat** una app movil para interactuar y subir recetas
 
-📫 Me puedes contactar en: [bauti.escalante@gmail.com]<br>
 ⚡ mi portfolio:  https://bautistaescalante.vercel.app/VisualPort
 ---
