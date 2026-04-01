@@ -10,8 +10,6 @@ Actualmente estoy profundizando en React y despliegues en AWS, ampliando mi perf
 
 ---
 
-
-
 🛠 Stack Tecnológico
 ## Backend:
 * Python (FastAPI)
@@ -51,7 +49,8 @@ Frontend en Angular + Ionic y backend en Laravel + MySQL.
 
 ### 🔬 Experiencia Profesional
 
-Pasante en Desarrollo de Software – Berken IP <br>
+#### Pasante en Desarrollo de Software – Berken IP (nov/2025 – abr/2026)<br>
+**Proyecto:** _automatizacion_BerkenIP_<br>
 Automatización de procesos con Python y Selenium <br>
 Refactorización de arquitectura<br>
 Mejora de interfaz con Tkinter + ttkbootstra <br>
